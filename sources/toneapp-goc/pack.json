@@ -1,0 +1,17 @@
+{
+  "id": "toneapp-goc",
+  "name": "ToneApp Gốc",
+  "description": "6 tone nhẹ nhàng, giữ da tự nhiên",
+  "author": "ToneApp",
+  "license": "Thuộc ToneApp",
+  "version": 1,
+  "builtin": true,
+  "tones": [
+    {"id": "hong_lanh", "name": "Hồng lạnh", "file": "hong_lanh.png"},
+    {"id": "tone_han", "name": "Tone Hàn", "file": "tone_han.png"},
+    {"id": "tra_sua", "name": "Trà sữa", "file": "tra_sua.png"},
+    {"id": "film", "name": "Film", "file": "film.png"},
+    {"id": "mint", "name": "Mint", "file": "mint.png"},
+    {"id": "trang_da", "name": "Trắng da", "file": "trang_da.png"}
+  ]
+}

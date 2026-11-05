@@ -1,0 +1,19 @@
+{
+  "format": 1,
+  "packs": [
+    {
+      "id": "toneapp-goc",
+      "name": "ToneApp Gốc",
+      "description": "6 tone nhẹ nhàng, giữ da tự nhiên",
+      "author": "ToneApp",
+      "license": "Thuộc ToneApp",
+      "version": 1,
+      "builtin": true,
+      "count": 6,
+      "size": 3717388,
+      "sha256": "627a8ddcd199579f1c2b8d1295dcc3bae08ec555dc825c841d58b57024a0dfb9",
+      "cover": "packs/toneapp-goc/cover.png",
+      "zip": "packs/toneapp-goc.zip"
+    }
+  ]
+}
